@@ -1,5 +1,5 @@
 # gitskills
-hello
+
 
 java
 python
